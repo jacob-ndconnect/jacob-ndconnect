@@ -1,16 +1,21 @@
-## Hi there 👋
+### Hey there, I'm Jacob
 
-<!--
-**jacob-ndconnect/jacob-ndconnect** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Design engineer & co-founder.** I believe the best products come from caring deeply - about craft, about users, about impact.
 
-Here are some ideas to get you started:
+Co-founding **[ND Connect](https://ndconnect.app)** - a peer mentorship platform and social capital engine for neurodivergent adults. I own the front-end development and lead UX.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**What I work with**
+- React / Next.js — my main home
+- Tailwind, shadcn/ui, Chakra UI
+- UX research, design systems, Figma
+- Some mobile: Flutter, React Native, Swift (learning)
+
+**What I've shipped**
+- ND Connect - social platform, web-based with PWA (native app in progress)
+- FocusCity - a virtual body-doubling space
+- Internal tooling and ops software
+- Currently: a canvas-based Chrome new tab extension (in progress)
+
+**Find me**
+- Portfolio + case studies: [jacobestep.com](https://jacobestep.com)
+- Email: jacob@ndconnect.app
