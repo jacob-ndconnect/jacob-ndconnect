@@ -11,10 +11,10 @@ Co-founding **[ND Connect](https://ndconnect.app)** - a peer mentorship platform
 - Some mobile: Flutter, React Native, Swift (learning)
 
 **What I've shipped**
-- ND Connect - social platform, web-based with PWA (native app in progress)
-- FocusCity - a virtual body-doubling space
+- [ND Connect](https://ndconnect.app) - social platform, web-based with PWA (native app in progress)
+- [Focus City](https://www.focuscity.co/) - a virtual body-doubling space
 - Internal tooling and ops software
-- Currently: a canvas-based Chrome new tab extension (in progress)
+- [PegBoard](https://chromewebstore.google.com/detail/eghmnmolbcjmdjihglicbjdbngmbaidn?utm_source=item-share-cb) - a canvas-based Chrome new tab extension
 
 **Find me**
 - Portfolio + case studies: [jacobestep.com](https://jacobestep.com)
